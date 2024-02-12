@@ -13,6 +13,7 @@
 		10B0FA0D2B7A170D0094754E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 10B0FA0B2B7A170D0094754E /* Main.storyboard */; };
 		10B0FA0F2B7A17100094754E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10B0FA0E2B7A17100094754E /* Assets.xcassets */; };
 		10B0FA122B7A17100094754E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 10B0FA102B7A17100094754E /* LaunchScreen.storyboard */; };
+		10B0FA1A2B7A712A0094754E /* Furniture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10B0FA192B7A712A0094754E /* Furniture.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		10B0FA0E2B7A17100094754E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		10B0FA112B7A17100094754E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		10B0FA132B7A17100094754E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		10B0FA192B7A712A0094754E /* Furniture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Furniture.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				10B0FA052B7A170D0094754E /* AppDelegate.swift */,
 				10B0FA072B7A170D0094754E /* SceneDelegate.swift */,
 				10B0FA092B7A170D0094754E /* ViewController.swift */,
+				10B0FA192B7A712A0094754E /* Furniture.swift */,
 				10B0FA0B2B7A170D0094754E /* Main.storyboard */,
 				10B0FA0E2B7A17100094754E /* Assets.xcassets */,
 				10B0FA102B7A17100094754E /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				10B0FA0A2B7A170D0094754E /* ViewController.swift in Sources */,
 				10B0FA062B7A170D0094754E /* AppDelegate.swift in Sources */,
+				10B0FA1A2B7A712A0094754E /* Furniture.swift in Sources */,
 				10B0FA082B7A170D0094754E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
